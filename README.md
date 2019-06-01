@@ -1,3 +1,3 @@
 # bch
 
-pass log in kampung scrypt
+pass log in kampungscrypt
